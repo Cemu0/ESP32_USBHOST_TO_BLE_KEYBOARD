@@ -1,6 +1,6 @@
 # ESP32 USBHOST TO BLE KEYBOARD
  DIY your ESP32 BLE KEYBOARD with USB HOST SHIELD:</br>
- ![alt text](https://github.com/Cemu0/ESP32_USBHOST_TO_BLE_KEYBOARD/IMG_5495.JPG "keyboard mod")
+ ![alt text](https://github.com/Cemu0/ESP32_USBHOST_TO_BLE_KEYBOARD/blob/main/IMG_5495.JPG "keyboard mod")
  ## Ferture:
  - Pair with as many Device as u want ... just look the code (but it cost 4-5 seconds to switch (unable to connect ESP32 with multy device))
 - High power consumption (>90mah+your keyboard)
