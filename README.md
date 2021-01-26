@@ -25,7 +25,7 @@ GPIO34: Baterry vol (with 30k & 100k resistor more info [here](https://en.wikipe
 - u should add a swith or PNP transistor for turn Keyboard off (it cost >100 mah LOL)
 
 ## Thanks to:
-- [T-vK](https://github.com/T-vK) for [ESP32-BLE-Keyboard](platformhttps://github.com/T-vK/ESP32-BLE-Keyboard) arduino library
+- [T-vK](https://github.com/T-vK) for [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) arduino library
 - [felis](https://github.com/felis) for [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0) arduino library
 
  
