@@ -5,7 +5,7 @@
  - Pair with as many Device as u want ... just look the code (but it cost 4-5 seconds to switch (unable to connect ESP32 with multy device))
 - High power consumption (>90mah+your keyboard)
 ## Todo:
-- forget ESP32 for ble keyboard and use a nRFxxx instead !!! due to high power consumption problem (maybe slove in the future)
+- forget ESP32 for ble keyboard and use a nRFxxx instead !!! due to high power consumption problem (maybe solve in the future)
 ## How to:
 - I use [platformio](https://platformio.org/) so just download and open by visual code with platformio extension installed (if not visual code usually ask u to install it).
 - not a schematic:</br>
@@ -18,7 +18,7 @@ GPIO19 : MISO </br>
 GPIO23 : MOSI</br>
 
 note: from https://create.arduino.cc/projecthub/139994/plug-any-usb-device-on-an-esp8266-e0ca8a u have to cut the track inorder to use 5v USB devices</br>
-- Orther pin is not important:</br>
+- Other pin is not important:</br>
 GPIO2: Statusled</br>
 GPIO0: connect it with some key on your keyboard so you can update ESP32 & wake it up from deep-sleep mode
 GPIO34: Baterry vol (with 30k & 100k resistor more info [here](https://en.wikipedia.org/wiki/Voltage_divider))
